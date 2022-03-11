@@ -27,7 +27,7 @@ Output from `mvn integration-test`
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running com.learningjenkins.AppTest
-[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.027 s - in com.learningjenkins.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.056 s - in com.learningjenkins.AppTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -38,7 +38,7 @@ Output from `mvn integration-test`
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  1.881 s
-[INFO] Finished at: 2022-03-11T22:07:15Z
+[INFO] Total time:  1.834 s
+[INFO] Finished at: 2022-03-11T22:10:10Z
 [INFO] ------------------------------------------------------------------------
 ```
