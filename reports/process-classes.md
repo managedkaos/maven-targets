@@ -12,11 +12,12 @@ Output from `mvn process-classes`
 [INFO] skip non existing resourceDirectory /home/runner/work/maven-targets/maven-targets/src/main/resources
 [INFO] 
 [INFO] --- maven-compiler-plugin:3.8.0:compile (default-compile) @ hello ---
-[INFO] Nothing to compile - all classes are up to date
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to /home/runner/work/maven-targets/maven-targets/target/classes
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.684 s
-[INFO] Finished at: 2022-03-11T22:26:53Z
+[INFO] Total time:  0.933 s
+[INFO] Finished at: 2022-03-11T22:33:44Z
 [INFO] ------------------------------------------------------------------------
 ```
