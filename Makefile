@@ -8,7 +8,7 @@ $(TARGET):
 	@echo "# $(@)"                  > ./reports/$(@).md
 	@echo 'Output from `mvn $(@)`' >> ./reports/$(@).md
 	@echo '```'                    >> ./reports/$(@).md
-	@mvn $(@) || true              >> ./reports/$(@).md
+	@mvn $(@)                      >> ./reports/$(@).md || true
 	@echo '```'                    >> ./reports/$(@).md
 
 nuke:
