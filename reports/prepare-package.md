@@ -27,7 +27,7 @@ Output from `mvn prepare-package`
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running com.learningjenkins.AppTest
-[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.065 s - in com.learningjenkins.AppTest
+[INFO] Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.068 s - in com.learningjenkins.AppTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -36,7 +36,7 @@ Output from `mvn prepare-package`
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  1.695 s
-[INFO] Finished at: 2022-03-11T22:10:00Z
+[INFO] Total time:  1.890 s
+[INFO] Finished at: 2022-03-11T22:12:50Z
 [INFO] ------------------------------------------------------------------------
 ```
