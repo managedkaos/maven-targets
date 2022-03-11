@@ -24,8 +24,8 @@ Output from `mvn site-deploy`
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  2.350 s
-[INFO] Finished at: 2022-03-11T22:07:52Z
+[INFO] Total time:  2.415 s
+[INFO] Finished at: 2022-03-11T22:10:46Z
 [INFO] ------------------------------------------------------------------------
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-site-plugin:3.7.1:deploy (default-deploy) on project hello: Missing distribution management in project hello (com.learningjenkins:hello:1.0-SNAPSHOT) -> [Help 1]
 [ERROR] 
